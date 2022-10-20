@@ -12,7 +12,7 @@ const Dashboard = () => {
             <div>
                 <MiddlePart />
             </div>
-            <div className="md:w-1/6">
+            <div className="md:w-1/5">
                 <RightSide />
             </div>
         </div>
